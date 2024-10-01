@@ -1,0 +1,48 @@
+Reading movies into list...
+Total movies: 7368255
+Elapsed time (s): 17.535
+Converting movie list to map...
+Elapsed time (s): 1.737
+Reading ratings into map...
+Elapsed time (s): 3.449
+Processing: MOST_VOTES 20 MOVIE
+	1: TITLE: The Shawshank Redemption, TYPE: MOVIE, YEAR: 1994, VOTES: 2346808
+	2: TITLE: The Dark Knight, TYPE: MOVIE, YEAR: 2008, VOTES: 2306686
+	3: TITLE: Inception, TYPE: MOVIE, YEAR: 2010, VOTES: 2070618
+	4: TITLE: Fight Club, TYPE: MOVIE, YEAR: 1999, VOTES: 1857759
+	5: TITLE: Pulp Fiction, TYPE: MOVIE, YEAR: 1994, VOTES: 1829154
+	6: TITLE: Forrest Gump, TYPE: MOVIE, YEAR: 1994, VOTES: 1812530
+	7: TITLE: The Matrix, TYPE: MOVIE, YEAR: 1999, VOTES: 1679160
+	8: TITLE: The Lord of the Rings: The Fellowship of the Ring, TYPE: MOVIE, YEAR: 2001, VOTES: 1663992
+	9: TITLE: The Lord of the Rings: The Return of the King, TYPE: MOVIE, YEAR: 2003, VOTES: 1645073
+	10: TITLE: The Godfather, TYPE: MOVIE, YEAR: 1972, VOTES: 1623236
+	11: TITLE: The Dark Knight Rises, TYPE: MOVIE, YEAR: 2012, VOTES: 1518389
+	12: TITLE: Interstellar, TYPE: MOVIE, YEAR: 2014, VOTES: 1515781
+	13: TITLE: The Lord of the Rings: The Two Towers, TYPE: MOVIE, YEAR: 2002, VOTES: 1487738
+	14: TITLE: Se7en, TYPE: MOVIE, YEAR: 1995, VOTES: 1447826
+	15: TITLE: Django Unchained, TYPE: MOVIE, YEAR: 2012, VOTES: 1360280
+	16: TITLE: Gladiator, TYPE: MOVIE, YEAR: 2000, VOTES: 1343390
+	17: TITLE: Batman Begins, TYPE: MOVIE, YEAR: 2005, VOTES: 1309979
+	18: TITLE: The Silence of the Lambs, TYPE: MOVIE, YEAR: 1991, VOTES: 1272386
+	19: TITLE: Inglourious Basterds, TYPE: MOVIE, YEAR: 2009, VOTES: 1270331
+	20: TITLE: The Avengers, TYPE: MOVIE, YEAR: 2012, VOTES: 1262138
+Elapsed time (s): 1.714
+Processing: MOST_VOTES 10 VIDEO_GAME
+	1: TITLE: The Last of Us, TYPE: VIDEO_GAME, YEAR: 2013, VOTES: 50883
+	2: TITLE: Grand Theft Auto V, TYPE: VIDEO_GAME, YEAR: 2013, VOTES: 50285
+	3: TITLE: Grand Theft Auto: San Andreas, TYPE: VIDEO_GAME, YEAR: 2004, VOTES: 34820
+	4: TITLE: Grand Theft Auto IV, TYPE: VIDEO_GAME, YEAR: 2008, VOTES: 31351
+	5: TITLE: Batman: Arkham City, TYPE: VIDEO_GAME, YEAR: 2011, VOTES: 26852
+	6: TITLE: The Elder Scrolls V: Skyrim, TYPE: VIDEO_GAME, YEAR: 2011, VOTES: 26100
+	7: TITLE: Batman: Arkham Asylum, TYPE: VIDEO_GAME, YEAR: 2009, VOTES: 23984
+	8: TITLE: Red Dead Redemption, TYPE: VIDEO_GAME, YEAR: 2010, VOTES: 22997
+	9: TITLE: Grand Theft Auto: Vice City, TYPE: VIDEO_GAME, YEAR: 2002, VOTES: 22903
+	10: TITLE: Red Dead Redemption II, TYPE: VIDEO_GAME, YEAR: 2018, VOTES: 22816
+Elapsed time (s): 0.519
+Processing: MOST_VOTES 5 TV_SERIES
+	1: TITLE: Game of Thrones, TYPE: TV_SERIES, YEAR: 2011, VOTES: 1767351
+	2: TITLE: Breaking Bad, TYPE: TV_SERIES, YEAR: 2008, VOTES: 1462141
+	3: TITLE: The Walking Dead, TYPE: TV_SERIES, YEAR: 2010, VOTES: 852409
+	4: TITLE: Friends, TYPE: TV_SERIES, YEAR: 1994, VOTES: 826061
+	5: TITLE: Stranger Things, TYPE: TV_SERIES, YEAR: 2016, VOTES: 820178
+Elapsed time (s): 0.9

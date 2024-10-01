@@ -1,0 +1,82 @@
+Reading movies into list...
+Total movies: 7368255
+Elapsed time (s): 18.17
+Converting movie list to map...
+Elapsed time (s): 1.383
+Reading ratings into map...
+Elapsed time (s): 0.0
+Processing: CONTAINS MOVIE The Big Lebowski
+Movie{ID='tt0118715', titleType=MOVIE, title='The Big Lebowski', year=1998, runtimeMinutes=117, genres=[COMEDY, CRIME, SPORT], rating=null}
+Elapsed time (s): 0.456
+Processing: CONTAINS MOVIE WXYZ
+Elapsed time (s): 0.413
+Processing: CONTAINS MOVIE Starman
+Movie{ID='tt0088172', titleType=MOVIE, title='Starman', year=1984, runtimeMinutes=115, genres=[ROMANCE, SCI_FI], rating=null}
+Movie{ID='tt12248228', titleType=MOVIE, title='Starman', year=2020, runtimeMinutes=52, genres=[DOCUMENTARY], rating=null}
+Movie{ID='tt5603512', titleType=MOVIE, title='Starman', year=0, runtimeMinutes=0, genres=[ADVENTURE, DRAMA, ROMANCE], rating=null}
+Movie{ID='tt6989456', titleType=MOVIE, title='David Bowie: Starman', year=2016, runtimeMinutes=0, genres=[DOCUMENTARY], rating=null}
+Elapsed time (s): 0.375
+Processing: CONTAINS MOVIE Avengers
+Movie{ID='tt0034639', titleType=MOVIE, title='The Avengers', year=1942, runtimeMinutes=98, genres=[DRAMA, WAR], rating=null}
+Movie{ID='tt0036194', titleType=MOVIE, title='The People's Avengers', year=1944, runtimeMinutes=55, genres=[DOCUMENTARY, WAR], rating=null}
+Movie{ID='tt0058651', titleType=MOVIE, title='The Three Avengers', year=1964, runtimeMinutes=101, genres=[ACTION, ADVENTURE, COMEDY], rating=null}
+Movie{ID='tt0069746', titleType=MOVIE, title='Avengers of the Reef', year=1973, runtimeMinutes=84, genres=[ADVENTURE, FAMILY], rating=null}
+Movie{ID='tt0074513', titleType=MOVIE, title='The Shaolin Avengers', year=1976, runtimeMinutes=97, genres=[ACTION, DRAMA], rating=null}
+Movie{ID='tt0077292', titleType=MOVIE, title='Crippled Avengers', year=1978, runtimeMinutes=104, genres=[ACTION, DRAMA], rating=null}
+Movie{ID='tt0079110', titleType=MOVIE, title='Three Avengers', year=1979, runtimeMinutes=86, genres=[ACTION, DRAMA], rating=null}
+Movie{ID='tt0082153', titleType=MOVIE, title='The Masked Avengers', year=1981, runtimeMinutes=92, genres=[ACTION, DRAMA], rating=null}
+Movie{ID='tt0118661', titleType=MOVIE, title='The Avengers', year=1998, runtimeMinutes=89, genres=[ACTION, ADVENTURE, SCI_FI], rating=null}
+Movie{ID='tt0167779', titleType=MOVIE, title='The Avengers', year=1950, runtimeMinutes=90, genres=[ADVENTURE], rating=null}
+Movie{ID='tt0199812', titleType=MOVIE, title='Ninja Avengers', year=1987, runtimeMinutes=0, genres=[ACTION], rating=null}
+Movie{ID='tt0492596', titleType=MOVIE, title='The Dark Avengers', year=2005, runtimeMinutes=110, genres=[ACTION, CRIME, DRAMA], rating=null}
+Movie{ID='tt0848228', titleType=MOVIE, title='The Avengers', year=2012, runtimeMinutes=143, genres=[ACTION, ADVENTURE, SCI_FI], rating=null}
+Movie{ID='tt10075836', titleType=MOVIE, title='The Avengers Assemble Premiere', year=2012, runtimeMinutes=0, genres=[ACTION], rating=null}
+Movie{ID='tt10197932', titleType=MOVIE, title='Spanish Avengers', year=0, runtimeMinutes=0, genres=[COMEDY], rating=null}
+Movie{ID='tt11590024', titleType=MOVIE, title='Avengers 5', year=2024, runtimeMinutes=0, genres=[NONE], rating=null}
+Movie{ID='tt1190633', titleType=MOVIE, title='Blackbelt Avengers', year=1969, runtimeMinutes=0, genres=[ACTION], rating=null}
+Movie{ID='tt13836554', titleType=MOVIE, title='Lego Justice League vs the Avengers', year=2016, runtimeMinutes=50, genres=[ACTION, ANIMATION, COMEDY], rating=null}
+Movie{ID='tt13925114', titleType=MOVIE, title='Avengers: Infinity War Demastered', year=2019, runtimeMinutes=135, genres=[ACTION, ADVENTURE, COMEDY], rating=null}
+Movie{ID='tt1472588', titleType=MOVIE, title='Vegas Avengers', year=0, runtimeMinutes=0, genres=[ACTION], rating=null}
+Movie{ID='tt2395427', titleType=MOVIE, title='Avengers: Age of Ultron', year=2015, runtimeMinutes=141, genres=[ACTION, ADVENTURE, SCI_FI], rating=null}
+Movie{ID='tt4154756', titleType=MOVIE, title='Avengers: Infinity War', year=2018, runtimeMinutes=149, genres=[ACTION, ADVENTURE, SCI_FI], rating=null}
+Movie{ID='tt4154796', titleType=MOVIE, title='Avengers: Endgame', year=2019, runtimeMinutes=181, genres=[ACTION, ADVENTURE, DRAMA], rating=null}
+Movie{ID='tt6172666', titleType=MOVIE, title='Avengers of Justice: Farce Wars', year=2018, runtimeMinutes=87, genres=[ACTION, COMEDY, FAMILY], rating=null}
+Movie{ID='tt7870278', titleType=MOVIE, title='The Lesbian Avengers Eat Fire, Too', year=1993, runtimeMinutes=56, genres=[DOCUMENTARY], rating=null}
+Movie{ID='tt8875872', titleType=MOVIE, title='Avengers: Reassembled', year=2018, runtimeMinutes=52, genres=[SCI_FI], rating=null}
+Movie{ID='tt9303032', titleType=MOVIE, title='Avengers: Legacy', year=2020, runtimeMinutes=87, genres=[SCI_FI], rating=null}
+Elapsed time (s): 0.4
+Processing: CONTAINS MOVIE Philadelphia
+Movie{ID='tt0032904', titleType=MOVIE, title='The Philadelphia Story', year=1940, runtimeMinutes=112, genres=[COMEDY, ROMANCE], rating=null}
+Movie{ID='tt0053462', titleType=MOVIE, title='The Young Philadelphians', year=1959, runtimeMinutes=136, genres=[DRAMA], rating=null}
+Movie{ID='tt0087910', titleType=MOVIE, title='The Philadelphia Experiment', year=1984, runtimeMinutes=102, genres=[ADVENTURE, DRAMA, ROMANCE], rating=null}
+Movie{ID='tt0107818', titleType=MOVIE, title='Philadelphia', year=1993, runtimeMinutes=125, genres=[DRAMA], rating=null}
+Movie{ID='tt0107819', titleType=MOVIE, title='Philadelphia Experiment II', year=1993, runtimeMinutes=97, genres=[ACTION, ADVENTURE, SCI_FI], rating=null}
+Movie{ID='tt0284690', titleType=MOVIE, title='Philadelphia, Here I Come!', year=1977, runtimeMinutes=95, genres=[DRAMA], rating=null}
+Movie{ID='tt0357774', titleType=MOVIE, title='I'd Rather Be in Philadelphia', year=2003, runtimeMinutes=0, genres=[COMEDY, THRILLER], rating=null}
+Movie{ID='tt10197800', titleType=MOVIE, title='Target: Philadelphia', year=2019, runtimeMinutes=56, genres=[DOCUMENTARY], rating=null}
+Movie{ID='tt11742456', titleType=MOVIE, title='Philadelphia Flyers Origin Story', year=0, runtimeMinutes=0, genres=[DRAMA], rating=null}
+Movie{ID='tt12023640', titleType=MOVIE, title='Philadelphia's Sleeper', year=2020, runtimeMinutes=0, genres=[CRIME], rating=null}
+Movie{ID='tt1821661', titleType=MOVIE, title='The Philadelphia Orchestra Concert Series Live in HD: Kavakos Plays Tchaikovsky', year=2010, runtimeMinutes=0, genres=[MUSIC], rating=null}
+Movie{ID='tt1821662', titleType=MOVIE, title='The Philadelphia Orchestra Concert Series Live in HD: Nezet-Seguin Haydn to Mahler', year=2010, runtimeMinutes=0, genres=[MUSIC], rating=null}
+Movie{ID='tt1821663', titleType=MOVIE, title='The Philadelphia Orchestra Concert Series Live in HD: Spano Conducts Sibelius', year=2010, runtimeMinutes=0, genres=[MUSIC], rating=null}
+Movie{ID='tt1821664', titleType=MOVIE, title='The Philadelphia Orchestra Concert Series Live in HD: Starry Night of Romeo & Juliet', year=2010, runtimeMinutes=0, genres=[MUSIC], rating=null}
+Movie{ID='tt1830856', titleType=MOVIE, title='The Philadelphia Orchestra Concert Series Live in HD: Gilbert Conducts', year=2011, runtimeMinutes=120, genres=[MUSIC], rating=null}
+Movie{ID='tt1842312', titleType=MOVIE, title='Arthur B. Carles: Philadelphia Artist', year=2004, runtimeMinutes=45, genres=[DOCUMENTARY], rating=null}
+Movie{ID='tt1863431', titleType=MOVIE, title='The Truth About The Philadelphia Experiment: Invisibility, Time Travel and Mind Control - The Shocking Truth', year=2010, runtimeMinutes=180, genres=[DOCUMENTARY], rating=null}
+Movie{ID='tt2177792', titleType=MOVIE, title='The Philadelphia Experiment Revealed: Final Countdown to Disclosure from the Area 51 Archives', year=2012, runtimeMinutes=300, genres=[DOCUMENTARY], rating=null}
+Movie{ID='tt2196476', titleType=MOVIE, title='Beirut, Philadelphia', year=2013, runtimeMinutes=50, genres=[DOCUMENTARY, DRAMA], rating=null}
+Movie{ID='tt2585208', titleType=MOVIE, title='Louis Theroux: Law and Disorder in Philadelphia', year=2008, runtimeMinutes=60, genres=[DOCUMENTARY], rating=null}
+Movie{ID='tt2625510', titleType=MOVIE, title='A Historical Approach to the Positive Music: Jazz in Philadelphia!', year=2013, runtimeMinutes=113, genres=[BIOGRAPHY, DOCUMENTARY, HISTORY], rating=null}
+Movie{ID='tt3587848', titleType=MOVIE, title='Rudess Morgenstein Project: Live in Philadelphia', year=2014, runtimeMinutes=0, genres=[MUSIC], rating=null}
+Movie{ID='tt4073086', titleType=MOVIE, title='Radio Disney Philadelphia', year=2014, runtimeMinutes=0, genres=[MUSICAL], rating=null}
+Movie{ID='tt4108340', titleType=MOVIE, title='The Philadelphia Orchestra: Yannick Nézet-Séguin Conducts The Rite of Spring', year=2013, runtimeMinutes=111, genres=[MUSIC], rating=null}
+Movie{ID='tt5119528', titleType=MOVIE, title='The Last Ride: A Philadelphia Story', year=0, runtimeMinutes=175, genres=[DOCUMENTARY, DRAMA], rating=null}
+Movie{ID='tt5187360', titleType=MOVIE, title='The Philadelphia Bicycle Vignette Story', year=2017, runtimeMinutes=0, genres=[COMEDY], rating=null}
+Movie{ID='tt5291706', titleType=MOVIE, title='World Meeting of Families: 2015 Philadelphia', year=2015, runtimeMinutes=0, genres=[DOCUMENTARY], rating=null}
+Movie{ID='tt5897790', titleType=MOVIE, title='Revolution in Philadelphia', year=0, runtimeMinutes=0, genres=[DOCUMENTARY], rating=null}
+Movie{ID='tt6197514', titleType=MOVIE, title='Philadelphia Project', year=2016, runtimeMinutes=60, genres=[DOCUMENTARY], rating=null}
+Movie{ID='tt6899026', titleType=MOVIE, title='It's Always Sunny in Philadelphia: Cast & Creators Live at the Paley Center', year=2010, runtimeMinutes=73, genres=[COMEDY], rating=null}
+Movie{ID='tt7874338', titleType=MOVIE, title='Before Hollywood: Philadelphia and the Birth of the Movies', year=2017, runtimeMinutes=0, genres=[DOCUMENTARY], rating=null}
+Movie{ID='tt8174096', titleType=MOVIE, title='Casual Encounters: Philadelphia True Crime Confessions', year=0, runtimeMinutes=0, genres=[CRIME, DRAMA, MYSTERY], rating=null}
+Movie{ID='tt8947210', titleType=MOVIE, title='Monsters of Philadelphia', year=0, runtimeMinutes=0, genres=[NONE], rating=null}
+Elapsed time (s): 0.424

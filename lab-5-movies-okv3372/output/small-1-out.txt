@@ -1,0 +1,56 @@
+Reading movies into list...
+Total movies: 16
+Elapsed time (s): 0.04
+Converting movie list to map...
+Elapsed time (s): 0.0
+Reading ratings into map...
+Elapsed time (s): 0.003
+Processing: CONTAINS MOVIE The
+Movie{ID='tt0081505', titleType=MOVIE, title='The Shining', year=1980, runtimeMinutes=146, genres=[DRAMA, HORROR], rating=Rating{ID='tt0081505', rating=8.4, numVotes=899812}}
+Movie{ID='tt0111161', titleType=MOVIE, title='The Shawshank Redemption', year=1994, runtimeMinutes=142, genres=[DRAMA], rating=Rating{ID='tt0111161', rating=9.3, numVotes=2346808}}
+Movie{ID='tt0114814', titleType=MOVIE, title='The Usual Suspects', year=1995, runtimeMinutes=106, genres=[CRIME, MYSTERY, THRILLER], rating=Rating{ID='tt0114814', rating=8.5, numVotes=992642}}
+Elapsed time (s): 0.024
+Processing: LOOKUP tt4154756
+Movie{ID='tt4154756', titleType=MOVIE, title='Avengers: Infinity War', year=2018, runtimeMinutes=149, genres=[ACTION, ADVENTURE, SCI_FI], rating=Rating{ID='tt4154756', rating=8.4, numVotes=837203}}
+Elapsed time (s): 0.0
+Processing: YEAR_AND_GENRE MOVIE 1994 CRIME
+	TITLE: Backlash, TYPE: MOVIE, YEAR: 1994, GENRES: [ACTION, CRIME, DRAMA]
+	TITLE: Natural Born Killers, TYPE: MOVIE, YEAR: 1994, GENRES: [ACTION, CRIME, DRAMA]
+	TITLE: Pulp Fiction, TYPE: MOVIE, YEAR: 1994, GENRES: [CRIME, DRAMA]
+Elapsed time (s): 0.007
+Processing: GROUP_BY MOVIE 1990 1995
+YEAR: 1990
+	GENRE: DRAMA, AMOUNT: 1
+YEAR: 1991
+YEAR: 1992
+YEAR: 1993
+YEAR: 1994
+	GENRE: ACTION, AMOUNT: 2
+	GENRE: CRIME, AMOUNT: 3
+	GENRE: DRAMA, AMOUNT: 4
+YEAR: 1995
+	GENRE: ACTION, AMOUNT: 3
+	GENRE: COMEDY, AMOUNT: 1
+	GENRE: CRIME, AMOUNT: 2
+	GENRE: DRAMA, AMOUNT: 4
+	GENRE: MYSTERY, AMOUNT: 1
+	GENRE: ROMANCE, AMOUNT: 1
+	GENRE: THRILLER, AMOUNT: 2
+Elapsed time (s): 0.003
+Processing: MOST_VOTES 5 MOVIE
+	1: TITLE: The Shawshank Redemption, TYPE: MOVIE, YEAR: 1994, VOTES: 2346808
+	2: TITLE: Pulp Fiction, TYPE: MOVIE, YEAR: 1994, VOTES: 1829154
+	3: TITLE: Interstellar, TYPE: MOVIE, YEAR: 2014, VOTES: 1515781
+	4: TITLE: The Usual Suspects, TYPE: MOVIE, YEAR: 1995, VOTES: 992642
+	5: TITLE: The Shining, TYPE: MOVIE, YEAR: 1980, VOTES: 899812
+Elapsed time (s): 0.006
+Processing: TOP 3 MOVIE 1994 1995
+YEAR: 1994
+	1: TITLE: The Shawshank Redemption, TYPE: MOVIE, RATING: 9.3, VOTES: 2346808
+	2: TITLE: Pulp Fiction, TYPE: MOVIE, RATING: 8.9, VOTES: 1829154
+	3: TITLE: Natural Born Killers, TYPE: MOVIE, RATING: 7.3, VOTES: 217034
+YEAR: 1995
+	1: TITLE: The Usual Suspects, TYPE: MOVIE, RATING: 8.5, VOTES: 992642
+	2: TITLE: Kuruthipunal, TYPE: MOVIE, RATING: 8.5, VOTES: 3755
+	3: TITLE: Strange Days, TYPE: MOVIE, RATING: 7.2, VOTES: 67297
+Elapsed time (s): 0.008
